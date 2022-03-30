@@ -1,0 +1,17 @@
+.count{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
+
+.name{
+    background-color: yellowgreen;
+    color: white;
+    font-size: 30px;
+}
+
+.btn{
+    color: white;
+    font-size: 30px;
+    border: none;
+}
